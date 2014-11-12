@@ -1,0 +1,13 @@
+{
+    "name": "logger",
+    "main": "./lib/logger",
+    "version": "0.0.0",
+    "private": true,
+    "description": "just another node app",
+    "repository": "https://github.com/bdunford/logger",
+    "license": "MIT",
+    "dependencies": {},
+    "scripts" : {
+        "test" : "jasmine-node spec"
+    }
+}
