@@ -1,11 +1,11 @@
-#logger
+# logger
 
 A logger for node Express that can be used for logging requests.
 
 Requires Nodejs http://nodejs.org
 
 
-##Installing
+## Installing
 
 __From the Command Line__<br />
 npm install git+https://github.com/bdunford/logger.git
@@ -29,7 +29,7 @@ __Raw__<br />
 Be sure to run npm install from with in the __logger__ directory
 
 
-##Usage
+## Usage
 
 require loger in your javascript.
 ```javascript
